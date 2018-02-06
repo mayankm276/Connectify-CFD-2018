@@ -8,6 +8,7 @@
 </head>
 <body>
 <form method="post">
+	<div class="logo"><img src="images/logo_white.png" height="100px"></div>
 	<div><input type="text" name="username" placeholder="Username"></div>
 	<div><input type="password" name="password" placeholder="Password"></div>
 	<div><input class="sub" type="submit" value="Login"></div><br>

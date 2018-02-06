@@ -8,7 +8,7 @@
 </head>
 <body>
 <form method="post">
-	<div class="container"></div>
+	<div class="logo"><img src="images/logo_white.png" height="100px"></div>
 	<div><input type="text" name="fname" placeholder="First name"></div>
 	<div><input type="text" name="lname" placeholder="Last name"></div>
 	<div><input type="text" name="username" placeholder="Username"></div>
